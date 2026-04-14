@@ -1,0 +1,14 @@
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\bin\Debug\net10.0\Trigonometria.exe
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\bin\Debug\net10.0\Trigonometria.deps.json
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\bin\Debug\net10.0\Trigonometria.runtimeconfig.json
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\bin\Debug\net10.0\Trigonometria.dll
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\bin\Debug\net10.0\Trigonometria.pdb
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\Trigonometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\Trigonometria.AssemblyInfoInputs.cache
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\Trigonometria.AssemblyInfo.cs
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\Trigonometria.csproj.CoreCompileInputs.cache
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\Trigonometria.dll
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\refint\Trigonometria.dll
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\Trigonometria.pdb
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\Trigonometria.genruntimeconfig.cache
+C:\Users\Erizo\Desktop\Trigonometria\Trigonometria\obj\Debug\net10.0\ref\Trigonometria.dll
